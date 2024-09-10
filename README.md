@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salmaann10
-- 👀 I’m interested in Data Analytics 
+- 👀 I’m interested in Data/Business Analytics
 - 🌱 I’m currently learning Data Engineering and Machine Learning 
 - 💞️ I’m looking to collaborate on Data Science Related Publications and Projects 
 - 📫 How to reach me Salmaann002@gmail.com
