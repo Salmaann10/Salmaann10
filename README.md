@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Salmaann10
+- 👋 Hi, I’m @Mohammad Salman 
 - 👀 I’m interested in Data/Business Analytics
 - 🌱 I’m currently learning Data Engineering and Machine Learning 
 - 💞️ I’m looking to collaborate on Data Science Related Publications and Projects 
