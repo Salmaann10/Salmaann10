@@ -21,7 +21,7 @@
 
 ### Certifications:
 
-src="https://github.com/Reyyadav/Reyyadav/assets/153619494/0553da08-806d-4f88-8250-07da4fb66e31" height="100" width="100"> <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/dedf25bc-c184-4bde-b4d8-28d359efdb0b" height="100" width="100">  <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/c46f1f64-59c8-4702-99fc-308081d8fc47" height="100" width="100"> </p>
+<img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/dedf25bc-c184-4bde-b4d8-28d359efdb0b" height="100" width="100">  <img src="https://github.com/Reyyadav/Reyyadav/assets/153619494/c46f1f64-59c8-4702-99fc-308081d8fc47" height="100" width="100"> </p>
 
 #### Technical Skills:
 
