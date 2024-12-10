@@ -1,10 +1,6 @@
 
 
 # <h1 align="center">Hi 👋, I'm Mohammad Salman</h1>
-# <h2 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cambria&weight=500&size=22&duration=5102&pause=1000&random=false&width=435&lines=Microsoft+Certified+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%3A+Power+Bi+Data+Analyst)](https://git.io/typing-svg)                  
-</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyyadav&label=Profile%20views&color=0e75b6&style=flat" alt="reyyadav" /> </p>
 
 ### - 🌱 I’m currently learning **Business Analytics and Data Engineering **
 
